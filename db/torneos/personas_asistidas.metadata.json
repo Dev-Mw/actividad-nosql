@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"973c2d3d48784e44a15e22b04a5fe986","collectionName":"personas_asistidas","type":"collection"}

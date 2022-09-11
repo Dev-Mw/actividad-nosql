@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"fd9c3e02e1cd4fc6889268b642df5a8d","collectionName":"entrenadores","type":"collection"}
